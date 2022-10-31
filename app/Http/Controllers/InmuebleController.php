@@ -33,7 +33,7 @@ class InmuebleController extends Controller
             ->select('i.idinmueble','i.idtipo_inmueble','i.nombre','i.descripcion','i.estado_inmueble','i.estado','ti.nombre as Tipo')
             ->where('i.nombre','LIKE','%'.$query.'%')
             ->where ('i.estado','=','Habilitado')
-            ->orderBy('ti.nombre','nombre','asc')
+            ->orderByRaw("CAST(ti.nombre as UNSIGNED) ASC","CAST(i.nombre as UNSIGNED) ASC")
             ->paginate(20);
             return view('inmuebles.inmueble.index',["inmuebles"=>$inmuebles,"searchText"=>$query]);
         }

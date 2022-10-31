@@ -169,7 +169,7 @@
 								<!--<li><a href="{{ url('/vistas/granjita') }}">Granjita</a></li>-->
 								<li><a href="{{ url('/vistas/eventos') }}">Eventos</a></li>
 								<li><a href="{{ url('/vistas/galeria') }}">Galeria</a></li>
-								<li><a href="{{ url('/vistas/reservaciones') }}">Reservaciones</a></li>
+								{{-- <li><a href="{{ url('/vistas/reservaciones') }}">Reservaciones</a></li> --}}
 								<li><a href="{{ url('/vistas/contacto') }}">Contacto</a></li>
 								<li class="has-dropdown">
 									@if (Auth::guest())
@@ -196,12 +196,12 @@
 									<ul class="dropdown">
 										<li><strong>Hola {{ ucwords($nombre[0]) }}!</strong></li>
 										<li><a href="{{URL::action('VistaHuespedController@edit',Auth::user()->id)}}"><i class="fa fa-address-book"></i> Perfil</a></li>
-										<li><a href="{{url('/vistas/reservas')}}"><i class="fa fa-book"></i> Reservas</a></li>
+										{{-- <li><a href="{{url('/vistas/reservas')}}"><i class="fa fa-book"></i> Reservas</a></li> --}}
 										<li><a href="{{url('/logout')}}"><i class="	fa fa-ban"></i> Salir</a></li>
 									</ul>
 									@endif
 								</li>
-								<li>
+								<!-- <li>
 									<?php
 										$carrito = Cart::getContent();
 										$numarticulos = $carrito->count();
@@ -209,7 +209,7 @@
 									<a  href="{{ url('/vistas/vcarrito') }}" >
 										<i class="fas fa-cart-plus content: 7"></i><span class="badge badge-pill badge-primary">{{$numarticulos}}</span>
 									</a>
-								</li>
+								</li> -->
 							</ul>
 						</div>
 					</div>
@@ -258,7 +258,7 @@
 								<li><a href="{{ url('/vistas/eventos') }}">Eventos</a></li>
 								<!--<li><a href="{{ url('/vistas/granjita') }}">Granjita</a></li>-->
 								<li><a href="{{ url('/vistas/galeria') }}">Galeria</a></li>
-								<li><a href="{{ url('/vistas/reservaciones') }}">Reservaciones</a></li>
+								{{-- <li><a href="{{ url('/vistas/reservaciones') }}">Reservaciones</a></li> --}}
 								<li><a href="{{ url('/vistas/contacto') }}">contacto</a></li>
 
 					

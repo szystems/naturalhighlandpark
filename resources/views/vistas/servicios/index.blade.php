@@ -152,11 +152,11 @@
 						<p>Disfruta de un lugar donde se puede compartir en una granjita de color  roja, llena de amor hacia los pequeños de la casa. Ven a disfrutar de la variedad que nuestros animales domésticos amigables. </p>
 					</div>
 				
-					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
+					<!--<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">-->
 						
 						
 						<!--<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>-->
-						<h2>Servicios</h2>
+						<!--<h2>Servicios</h2>
 						<p>Servicios Generales: <font color="orange"></font></p>
 						<p>
 							<a href="https://www.szystems.com/naturalhighlandpark/public/tarifarios/Servicios.pdf" class="btn btn-danger" role="button" target="blank">Descargar Tarifario Servicios</a>
@@ -174,7 +174,7 @@
 						</p>
 						
 					</div>
-				</div>
+				</div>-->
 				<!--<div class="blog-flex">
 					<div class="video colorlib-video" style="background-image: url({{asset('hltemplate/images/blog-3.jpg')}});">
 						<a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video"></i></a>

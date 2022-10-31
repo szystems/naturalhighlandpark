@@ -64,7 +64,7 @@
 		  	</div>
 		</aside>
 
-		<div id="colorlib-reservation">
+		<!--<div id="colorlib-reservation">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 search-wrap">
@@ -145,7 +145,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div>-->
 
 		<div id="colorlib-services">
 			<div class="container">

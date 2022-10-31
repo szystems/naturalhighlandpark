@@ -27,7 +27,7 @@
 			->where ('idtipo_inmueble','=',$tipo->idtipo_inmueble)
 			->where ('estado_inmueble','=','Activo')
 			->where ('estado','=','Habilitado')
-			->orderBy('nombre','asc')
+			->orderByRaw("CAST(nombre as UNSIGNED) ASC")
 			->get();
 
 			$caracteristicas=DB::table('caracteristica')
@@ -54,7 +54,7 @@
 						<strong><font color="green"><i class="fas fa-check-double"></i></font> {{$caracteristica->nombre}}</strong>@if($caracteristica->descripcion != null): <font color="orange">{{$caracteristica->descripcion}}</font>@endif<br>
 						@endforeach-->
 						</p>
-						<p><a href="{{ url('/vistas/reservaciones') }}" target="_blank" class="btn btn-success">Reservar ahora!</a></p>
+						{{-- <p><a href="{{ url('/vistas/reservaciones') }}" target="_blank" class="btn btn-success">Reservar ahora!</a></p> --}}
 					</div>
 				</div>
 				<div class="row">
@@ -80,7 +80,7 @@
 									
 									<li><strong> {{$inmueble->descripcion}}</strong></li>
 								</ul>
-								<p><a href="{{ url('/vistas/reservaciones') }}" target="_blank" class="btn btn-success">Reservar ahora!</a></p>
+								<!--<p><a href="{{ url('/vistas/reservaciones') }}" target="_blank" class="btn btn-success">Reservar ahora!</a></p>-->
 							</div>
 						</div>
 					@endforeach
