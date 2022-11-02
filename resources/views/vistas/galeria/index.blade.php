@@ -27,11 +27,11 @@
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
 						<span class="icon">
-							<img src="{{asset('hltemplate/images/logo/logo.png')}}" alt="Facebook"  height="128">
+							<img src="{{asset('hltemplate/images/logo/logo.png')}}" alt="Parque" >
 						</span>
 						<!--<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>-->
-						<h2>Galeria &amp; Fotos</h2>
-						<p>La mejor vista desde dentro del corazón de la naturaleza.</p>
+						<h2>Parque</h2>
+						<p></p>
 					</div>
 				</div>
 				<div class="row">
@@ -39,144 +39,316 @@
 						<div class="owl-carousel owl-carousel2">
 
 							<div class="item">
-								<a href="{{asset('hltemplate/images/portada/1.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/portada/1.jpg')}});"></a>
-								<div class="desc text-center">
-									
+								<a href="{{asset('hltemplate/images/Parque/1.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/1.jpg')}});"></a>
+								{{-- <div class="desc text-center">
 									<h3><a href="">Cabañas</a></h3>
-									
-								</div>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/portada/2.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/portada/2.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Restaurante</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/2.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/2.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/portada/3.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/portada/3.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Interior de Hospedaje</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/3.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/3.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/portada/4.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/portada/4.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Area de Fogatas</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/4.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/4.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/galeria/rest1.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/galeria/rest1.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Restaurante</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/5.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/5.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/galeria/rest2.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/galeria/rest2.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Restaurante</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/6.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/6.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/galeria/rest3.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/galeria/rest3.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Restaurante</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/7.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/7.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/galeria/picnicweb.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/galeria/picnicweb.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Picnic</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/8.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/8.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/galeria/picnicweb2.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/galeria/picnicweb2.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Picnic</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/9.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/9.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/galeria/hotel1web.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/galeria/hotel1web.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Hotel</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/10.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/10.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/galeria/hotelweb2.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/galeria/hotelweb2.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Hotel</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/11.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/11.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/galeria/granjita1.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/galeria/granjita1.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Granjita</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/12.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/12.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/galeria/granjita2.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/galeria/granjita2.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Granjita</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/13.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/13.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/galeria/granjita3.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/galeria/granjita3.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Granjita</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/14.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/14.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/galeria/gotcha1.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/galeria/gotcha1.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Gotcha</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/15.png')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/15.png')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/galeria/gotcha2.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/galeria/gotchaweb2.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Gotcha</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/16.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/16.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/galeria/gotcha3.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/galeria/gotchaweb3.jpg')}});"></a>
-								<div class="desc text-center">
-									
-									<h3><a href="">Gotcha</a></h3>
-									
-								</div>
+								<a href="{{asset('hltemplate/images/Parque/17.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/17.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Parque/18.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Parque/18.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+
+							
 						</div>
 					</div>
 				</div>
+			</div>
+		</div>
+
+		<div id="colorlib-rooms" class="colorlib-light-grey">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
+						<span class="icon">
+							<img src="{{asset('hltemplate/images/atracciones/LogoGranjitaWeb.png')}}" alt="Granjita" width="128" height="128">
+						</span>
+						<!--<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>-->
+						<h2>Granjita</h2>
+						<p>Disfruta de un lugar donde se puede compartir en una granjita de color  roja, llena de amor hacia los pequeños de la casa. Ven a disfrutar de la variedad que nuestros animales domésticos amigables. </p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12 animate-box">
+						<div class="owl-carousel owl-carousel2">
+
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/1.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/1.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/2.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/2.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/3.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/3.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/4.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/4.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/5.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/5.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/6.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/6.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/7.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/7.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/8.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/8.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/9.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/9.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/10.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/10.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/11.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/11.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/12.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/12.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/13.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/13.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/14.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/14.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/15.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/15.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/16.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/16.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/17.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/17.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Granjita/18.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Granjita/18.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="colorlib-rooms" class="colorlib-light-grey">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
+						<span class="icon">
+							<img src="{{asset('hltemplate/images/atracciones/Picnicweb.png')}}" alt="Granjita" width="128" height="128">
+						</span>
+						<!--<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>-->
+						<h2>Picnic</h2>
+						<p></p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12 animate-box">
+						<div class="owl-carousel owl-carousel2">
+
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Picnic/1.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Picnic/1.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Picnic/2.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Picnic/2.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Picnic/3.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Picnic/3.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Picnic/4.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Picnic/4.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+
+		<div id="colorlib-blog">
+			<div class="container">
+				<div class="row">
+				
+					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
+						<span class="icon">
+							
+						</span>
+						<!--<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>-->
+						
+					</div>
+				
+					
+				
 			</div>
 		</div>
 	

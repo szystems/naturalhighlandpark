@@ -39,49 +39,68 @@
 						<p>Numero de telefono directo +(502) 5056 5519</p></strong>
 					</div>
 				</div>
-				<!--<div class="blog-flex">
-					<div class="video colorlib-video" style="background-image: url({{asset('hltemplate/images/blog-3.jpg')}});">
-						<a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video"></i></a>
-						<div class="overlay"></div>
-					</div>
-					<div class="blog-entry">
-						<div class="row">
-							<div class="col-md-12 animate-box">
-								<a href="blog.html" class="blog-post">
-									<span class="img" style="background-image: url({{asset('hltemplate/images/blog-1.jpg')}});"></span>
-									<div class="desc">
-										<span class="date">January 14, 2018</span>
-										<h3>A Definitive Guide to the Best Dining</h3>
-										<span class="cat">Activities</span>
-									</div>
-								</a>
+				
+			</div>
+		</div>
+
+		<div id="colorlib-rooms" class="colorlib-light-grey">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 animate-box">
+						<div class="owl-carousel owl-carousel2">
+
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/1.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/1.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
-							<div class="col-md-12 animate-box">
-								<a href="blog.html" class="blog-post">
-									<span class="img" style="background-image: url({{asset('hltemplate/images/blog-2.jpg')}});"></span>
-									<div class="desc">
-										<span class="date">January 14, 2018</span>
-										<h3>How These 5 People Found The Path to Their Dream Trip</h3>
-										<span class="cat">Activities</span>
-									</div>
-								</a>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/2.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/2.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
-							<div class="col-md-12 animate-box">
-								<a href="blog.html" class="blog-post">
-									<span class="img" style="background-image: url({{asset('hltemplate/images/blog-3.jpg')}});"></span>
-									<div class="desc">
-										<span class="date">January 14, 2018</span>
-										<h3>Our Secret Island Boat Tour Is just for You</h3>
-										<span class="cat">Activities</span>
-									</div>
-								</a>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/3.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/3.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
-							<div class="col-md-12 animate-box text-right">
-								<a href="#">View all blog post <i class="icon-arrow-right3"></i></a>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/4.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/4.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
 							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/5.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/5.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/6.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/6.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/7.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/7.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/8.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/8.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							
 						</div>
 					</div>
-				</div>-->
+				</div>
 			</div>
 		</div>
 	
