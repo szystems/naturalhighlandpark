@@ -66,6 +66,8 @@ Route::post('reportes/bitacora/vista','ReportesController@vistabitacorareporte')
     
     /*Restaurantes */
 Route::resource('vistas/restaurantes','RestaurantesController');
+Route::resource('vistas/tzununah','TzununahController');
+Route::resource('vistas/casaantonieta','CasaAntonietaController');
     /*Camping */
 Route::resource('vistas/camping','CampingController');
     /*Eventos */
