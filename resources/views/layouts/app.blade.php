@@ -167,8 +167,8 @@
 								<li class="has-dropdown">
 									<a href="{{ url('/vistas/restaurantes') }}">Restaurantes</a>
 									<ul class="dropdown">
-										<li><a href="{{ url('/vistas/tzununah') }}">Tzununah Bistro</a></li>
 										<li><a href="{{ url('/vistas/casaantonieta') }}">Casa Antonieta</a></li>
+										<li><a href="{{ url('/vistas/tzununah') }}">Tzununah Bistro</a></li>
 									</ul>
 								</li>
 								<li><a href="{{ url('/vistas/servicios') }}">Parque</a></li>
