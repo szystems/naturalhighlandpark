@@ -97,6 +97,120 @@
 									<h3><a href="">Cabañas</a></h3>
 								</div> --}}
 							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e1.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e1.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e2.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e2.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e3.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e3.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e4.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e4.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e5.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e5.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e6.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e6.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e7.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e7.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e8.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e8.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e9.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e9.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e10.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e10.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e11.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e11.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e12.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e12.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e13.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e13.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e14.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e14.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e15.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e15.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e16.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e16.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e17.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e17.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e18.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e18.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
+							<div class="item">
+								<a href="{{asset('hltemplate/images/Eventos/e19.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Eventos/e19.jpg')}});"></a>
+								{{-- <div class="desc text-center">
+									<h3><a href="">Cabañas</a></h3>
+								</div> --}}
+							</div>
 							
 						</div>
 					</div>

@@ -139,6 +139,36 @@
 			</div>
 		</div>
 
+		<div id="colorlib-rooms" class="colorlib-light-grey">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
+						<span class="icon">
+							<img src="{{asset('hltemplate/images/logo/logo.png')}}" alt="Facebook"  height="128">
+						</span>
+						<!--<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>-->
+						<h2>Tarifario</h2>
+						<p>A continuación veras las tarifas de las actividades y hospedaje de nuestro parque.</p>
+					</div>
+				</div>
+				<div class="row" align="center">
+					<div class="col-md-12 animate-box">
+						<h2>Actividades</h2>
+						<img src="{{asset('hltemplate/images/Tarifario/Tarifario-Actividades.jpg')}}" class="img-responsive" alt="Responsive image">
+						<br>
+						<h2>Hospedaje de Vienes a Domingo</h2>
+						<img src="{{asset('hltemplate/images/Tarifario/Tarfiario-Fin-de-Semana.jpg')}}" class="img-responsive" alt="Responsive image">
+						<br>
+						<h2>Hospedaje de Lunes a Jueves</h2>
+						<img src="{{asset('hltemplate/images/Tarifario/tarifario-de-Hospedaje.jpg')}}" class="img-responsive" alt="Responsive image">
+						<br>
+						<h2>Hospedaje en Carpas</h2>
+						<img src="{{asset('hltemplate/images/Tarifario/Tarifario-Glamping.jpg')}}" class="img-responsive" alt="Responsive image">
+					</div>
+				</div>
+			</div>
+		</div>
+
 		
 	
 		<div id="colorlib-subscribe" style="background-image: url({{asset('hltemplate/images/pie/pie.jpg')}});">
