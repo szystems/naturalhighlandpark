@@ -5,7 +5,6 @@ namespace sisVentasWeb\Http\Controllers;
 use Illuminate\Http\Request;
 
 use sisVentasWeb\Http\Requests;
-use sisVentasWeb\Contacto;
 use Illuminate\Support\Facades\Redirect;
 use sisVentasWeb\Http\Requests\ContactoFormRequest;
 use DB;
@@ -24,17 +23,17 @@ class ContactoController extends Controller
     {
         
 
-        $nombre = $request->get("name");
-        $email = $request->get("email");
-        $telefono = $request->get("phone");
-        $asunto = $request->get("subject");
-        $mensaje = $request->get("mensaje");
+        $nombre = $request->get("name1");
+        $email = $request->get("email1");
+        $telefono = $request->get("phone1");
+        $asunto = $request->get("subject1");
+        $mensaje = $request->get("mensaje1");
 
         
 
         
         $correoUsuario = env('MAIL_USERNAME');
-        Mail::to($correoUsuario)->send(new ContactoCliente($nombre,$email,$telefono,$asunto,$mensaje));
+        Mail::to("admonhighlandpark@gmail.com")->send(new ContactoCliente($nombre,$email,$telefono,$asunto,$mensaje));
         $request->session()->flash('alert-success', 'El mensaje fue enviado, en las próximas horas se contactará un encargado para resolver tus dudas.');
         return view('vistas.vcontacto.index');
 

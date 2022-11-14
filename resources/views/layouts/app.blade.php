@@ -247,8 +247,9 @@
 						<ul class="colorlib-footer-links">
 							<li>Los esperamos en el Km 232, San Martín Chile Verde, Sacatepequez, Quetzaltenango, donde podrán encontrar nuestro Parque, Hotel, y Restaurantes rodeados de naturaleza y color!</li>
 							<!--<li>Aldea Miramar, <br> Km. 232, San Martín Chile Verde</li>-->
-							<li><a href="32056298">+(502) 3205-6298</a></li>
-							<li><a href="{{ url('/vistas/contacto') }}">reservaciones@naturalhighlandpark.com</a></li>
+							<li><a href="5056 5519">+(502) 5696 0396</a> Martes a Domingo 8am a 5pm</li>
+							<li><a href="5056 5519">+(502) 5056 5519</a> Lunes a Domingo 7am a 8pm</li>
+							<li><a href="{{ url('/vistas/contacto') }}">admonhighlandpark@gmail.com</a></li>
 							<li><a href="http://naturalhighlandpark.com">www.naturalhighlandpark.com</a></li>
 						</ul>
 					</div>

@@ -56,7 +56,7 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'info@szystems.com'),
+        'address' => env('MAIL_FROM_ADDRESS', 'reservaciones@naturalhighlandpark.com'),
         'name' => env('MAIL_FROM_NAME', 'Natural Highland Park'),
     ],
 

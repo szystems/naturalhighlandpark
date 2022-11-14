@@ -46,34 +46,34 @@
                 <div class="row">
                   <div class="col-12">
                     <div class="form-group">
-                      <input class="form-control" name="subject" id="subject" type="text" onfocus="this.placeholder = ''"
-                        onblur="this.placeholder = 'Asunto'" placeholder='Asunto' value="{{ old('subject') }}" required>
+                      <input class="form-control" name="subject1" id="subject1" type="text" onfocus="this.placeholder = ''"
+                        onblur="this.placeholder = 'Asunto'" placeholder='Asunto' value="{{ old('subject1') }}" required>
                     </div>
                   </div>
                   <div class="col-12">
                     <div class="form-group">
 
-                      <textarea class="form-control w-100" name="mensaje" id="mensaje" cols="30" rows="9"
+                      <textarea class="form-control w-100" name="mensaje1" id="mensaje1" cols="30" rows="9"
                         onfocus="this.placeholder = ''" onblur="this.placeholder = 'Escribe un mensaje'"
-                        placeholder='Escribe un mensaje' required>{{ old('mensaje') }}</textarea>
+                        placeholder='Escribe un mensaje' required>{{ old('mensaje1') }}</textarea>
                     </div>
                   </div>
                   <div class="col-sm-12">
                     <div class="form-group">
-                      <input class="form-control" name="name" id="name" type="text" onfocus="this.placeholder = ''"
-                        onblur="this.placeholder = 'Tu Nombre'" placeholder='Tu Nombre' value="{{ old('name') }}" required>
+                      <input class="form-control" name="name1" id="name1" type="text" onfocus="this.placeholder = ''"
+                        onblur="this.placeholder = 'Tu Nombre'" placeholder='Tu Nombre' value="{{ old('name1') }}" required>
                     </div>
                   </div>
                   <div class="col-sm-6">
                     <div class="form-group">
-                      <input class="form-control" name="email" id="email" type="email" onfocus="this.placeholder = ''"
-                        onblur="this.placeholder = 'Tu Email'" placeholder='Tu Email' value="{{ old('email') }}" required>
+                      <input class="form-control" name="email1" id="email1" type="email" onfocus="this.placeholder = ''"
+                        onblur="this.placeholder = 'Tu Email'" placeholder='Tu Email' value="{{ old('email1') }}" required>
                     </div>
                   </div>
                   <div class="col-sm-6">
                     <div class="form-group">
-                      <input class="form-control" name="phone" id="phone" type="text" onfocus="this.placeholder = ''"
-                        onblur="this.placeholder = 'Tu Teléfono'" placeholder='Tu Teléfono' value="{{ old('phone') }}" required>
+                      <input class="form-control" name="phone1" id="phone1" type="text" onfocus="this.placeholder = ''"
+                        onblur="this.placeholder = 'Tu Teléfono'" placeholder='Tu Teléfono' value="{{ old('phone1') }}" required>
                     </div>
                   </div>
                   
@@ -94,21 +94,21 @@
               <div class="media contact-info">
                 <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                 <div class="media-body">
-                  <h3>+(502) 7910 6868 </h3>
-                  <p>Lun a Dom 9am to 6pm</p>
+                  <h3>+(502) 5696 0396 </h3>
+                  <p>Martes a Domingo 8am a 5pm</p>
                 </div>
               </div>
               <div class="media contact-info">
                 <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                 <div class="media-body">
-                  <h3>+(502) 5056 5519 </h3>
-                  <p>Lun a Dom 9am to 6pm</p>
+                  <h3>+(502) 5056 5519</h3>
+                  <p>Lunes a Domingo 7am a 8pm</p>
                 </div>
               </div>
               <div class="media contact-info">
                 <span class="contact-info__icon"><i class="ti-email"></i></span>
                 <div class="media-body">
-                  <h3>info@naturalhighlandpark.com</h3>
+                  <h3>admonhighlandpark@gmail.com</h3>
                   <p>Escribenos!</p>
                 </div>
               </div>

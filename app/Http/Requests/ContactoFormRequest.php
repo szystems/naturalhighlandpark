@@ -24,11 +24,11 @@ class ContactoFormRequest extends FormRequest
     public function rules()
     {
         return [
-            'name'=>'required|max:100',
-            'email'=>'required|max:100|email',
-            'phone'=>'required|max:20',
-            'subject'=>'required|max:50',
-            'mensaje'=>'required',
+            'name1'=>'required|max:100',
+            'email1'=>'required|max:100|email',
+            'phone1'=>'required|max:20',
+            'subject1'=>'required|max:50',
+            'mensaje1'=>'required',
         ];
     }
 }
