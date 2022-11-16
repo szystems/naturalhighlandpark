@@ -30,7 +30,7 @@
 							<img src="{{asset('hltemplate/images/logo/logo.png')}}" alt="Facebook" >
 						</span>
 						<!--<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>-->
-						<h2>Mapa</h2>
+						<h4>Mapa</h4>
 						<p>Guíate hacia la aventura.</p>
 					</div>
 				</div>
@@ -55,6 +55,7 @@
 						<!--<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>-->
 						<h2>Atracciones</h2>
 						<p>Las mejores atracciones en medio de la naturaleza para disfrutar con familia y amigos.</p>
+						<p> Somos <strong>pet friendly</strong> permitimos acceso a tu mascota de razas pequeñas y medianas al parque y cabañas (No permitido en restaurantes y glamping)</p>
 					</div>
 				</div>
 				<div class="row">

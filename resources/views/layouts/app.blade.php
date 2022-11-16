@@ -138,16 +138,17 @@
 			<div class="top">
 				<div class="container">
 					<div class="row">
-						<div class="col-xs-4">
+						<!--<div class="col-xs-4">
 							<a href="{{ url('/') }}"><p class="site">www.naturalhighlandpark.com</p></a>
-						</div>
+						</div>-->
 						<div class="col-xs-8 text-right">
 							<!--<p class="num">Telefono: <a href="tel:+50232056298">+(502) 3205-6298</a></p>-->
 							<ul class="colorlib-social">
-								<li><a href="https://www.facebook.com/HighlandNaturalPark"><img src="{{asset('hltemplate/images/redes/Fb.png')}}" alt="Facebook"  height="32"></a></li>
-								<li><a href="https://www.instagram.com/naturalhiglandpark/"><img src="{{asset('hltemplate/images/redes/Insta.png')}}" alt="Instagram"  height="32"></a></li>
-								<li><a href="#"><img src="{{asset('hltemplate/images/redes/youtube.png')}}" alt="Youtube" height="32"></a></li>
-								<li><a href="#"><img src="{{asset('hltemplate/images/redes/waze.png')}}" alt="Waze" width="32" height="32"></a></li>
+								<li><a href="https://www.facebook.com/HighlandNaturalPark" target="_blank"><img src="{{asset('hltemplate/images/redes/Fb.png')}}" alt="Facebook"  height="32"></a></li>
+								<li><a href="https://www.instagram.com/highlandnaturalpark/" target="_blank"><img src="{{asset('hltemplate/images/redes/Insta.png')}}" alt="Instagram"  height="32"></a></li>
+								<li><a href="https://www.youtube.com/results?search_query=highland+natural+park" target="_blank"><img src="{{asset('hltemplate/images/redes/youtube.png')}}" alt="Youtube" height="32"></a></li>
+								<li><a href="https://ul.waze.com/ul?ll=14.75218281%2C-91.68668032&navigate=yes&zoom=17&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location" target="_blank"><img src="{{asset('hltemplate/images/redes/waze.png')}}" alt="Waze" width="32" height="32"></a></li>
+								<li><a href="http://wpp-redirect.herokuapp.com/go/?p=50250565519&m=" target="_blank"><img src="{{asset('hltemplate/images/logow.png')}}" alt="WhatsApp" height="32"></a></li>
 							</ul>
 						</div>
 					</div>
@@ -232,10 +233,10 @@
 						<p>Redes Sociales</p>
 						<p>
 							<ul class="colorlib-social-icons">
-								<li><a href="https://www.facebook.com/HighlandNaturalPark"><img src="{{asset('hltemplate/images/redes/Fbblanco.png')}}" alt="Facebook"  height="32"></a></li>
-								<li><a href="https://www.instagram.com/naturalhiglandpark/"><img src="{{asset('hltemplate/images/redes/Instagramblanco.png')}}" alt="Instagram"  height="32"></i></a></li>
-								<li><a href="#"><img src="{{asset('hltemplate/images/redes/youtubeblanco.png')}}" alt="Youtube"  height="32"></a></li>
-								<li><a href="#"><img src="{{asset('hltemplate/images/redes/wazeblanco.png')}}" alt="Waze"  height="32"></a></li>
+								<li><a href="https://www.facebook.com/HighlandNaturalPark" target="_blank"><img src="{{asset('hltemplate/images/redes/Fbblanco.png')}}" alt="Facebook"  height="32"></a></li>
+								<li><a href="https://www.instagram.com/highlandnaturalpark/" target="_blank"><img src="{{asset('hltemplate/images/redes/Instagramblanco.png')}}" alt="Instagram"  height="32"></i></a></li>
+								<li><a href="https://www.youtube.com/results?search_query=highland+natural+park" target="_blank"><img src="{{asset('hltemplate/images/redes/youtubeblanco.png')}}" alt="Youtube"  height="32"></a></li>
+								<li><a href="https://ul.waze.com/ul?ll=14.75218281%2C-91.68668032&navigate=yes&zoom=17&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location" target="_blank"><img src="{{asset('hltemplate/images/redes/wazeblanco.png')}}" alt="Waze"  height="32"></a></li>
 							</ul>
 						</p>
 					</div>
@@ -247,9 +248,10 @@
 						<ul class="colorlib-footer-links">
 							<li>Los esperamos en el Km 232, San Martín Chile Verde, Sacatepequez, Quetzaltenango, donde podrán encontrar nuestro Parque, Hotel, y Restaurantes rodeados de naturaleza y color!</li>
 							<!--<li>Aldea Miramar, <br> Km. 232, San Martín Chile Verde</li>-->
-							<li><a href="5056 5519">+(502) 5696 0396</a> Martes a Domingo 8am a 5pm</li>
-							<li><a href="5056 5519">+(502) 5056 5519</a> Lunes a Domingo 7am a 8pm</li>
-							<li><a href="{{ url('/vistas/contacto') }}">admonhighlandpark@gmail.com</a></li>
+							<li><a href="http://wpp-redirect.herokuapp.com/go/?p=50250559476&m="><img src="{{asset('hltemplate/images/logow.png')}}" alt="" style="width: 50px;"><strong>Reservaciones:</strong> +(502) 5055 9476</a><br> Lunes a Domingo 7am a 8pm</li>
+							<li><a href="http://wpp-redirect.herokuapp.com/go/?p=50250565519&m="><img src="{{asset('hltemplate/images/logow.png')}}" alt="" style="width: 50px;"><strong>Eventos:</strong> +(502) 5056 5519</a><br> Lunes a Domingo 7am a 8pm</li>
+							<li><a href="http://wpp-redirect.herokuapp.com/go/?p=50256960396&m="><img src="{{asset('hltemplate/images/logow.png')}}" alt="" style="width: 50px;"><strong>Administracion:</strong> +(502) 5696 0396</a><br> Martes a Domingo 8am a 5pm</li>
+							{{-- <li><a href="{{ url('/vistas/contacto') }}">admonhighlandpark@gmail.com</a></li> --}}
 							<li><a href="http://naturalhighlandpark.com">www.naturalhighlandpark.com</a></li>
 						</ul>
 					</div>

@@ -94,24 +94,47 @@
               <div class="media contact-info">
                 <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                 <div class="media-body">
-                  <h3>+(502) 5696 0396 </h3>
-                  <p>Martes a Domingo 8am a 5pm</p>
+                  <h3>Reservaciones únicamente por WhatsApp:</h3>
+                  <h3>
+                    <a href="http://wpp-redirect.herokuapp.com/go/?p=50250559476&m=" target="_blank">
+                      <img src="{{asset('hltemplate/images/logow.png')}}" alt="" style="width: 50px;">+(502) 5055 9476 
+                    </a>
+                  </h3>
+                  <p>Lunes a Domingo 7am a 8pm</p>
                 </div>
               </div>
               <div class="media contact-info">
                 <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                 <div class="media-body">
-                  <h3>+(502) 5056 5519</h3>
+                  <h3>Para eventos:</h3>
+                  <h3>
+                    
+                    <a href="http://wpp-redirect.herokuapp.com/go/?p=50250565519&m=" target="_blank">
+                      <img src="{{asset('hltemplate/images/logow.png')}}" alt="" style="width: 50px;">+(502) 5056 5519
+                    </a>
+                  </h3>
                   <p>Lunes a Domingo 7am a 8pm</p>
                 </div>
               </div>
               <div class="media contact-info">
+                <span class="contact-info__icon"><i class="ti-tablet"></i></span>
+                <div class="media-body">
+                  <h3>Administracion:</h3>
+                  <h3>
+                    <a href="http://wpp-redirect.herokuapp.com/go/?p=50256960396&m=" target="_blank">
+                      <img src="{{asset('hltemplate/images/logow.png')}}" alt="" style="width: 50px;">+(502) 5696 0396 
+                    </a>
+                  </h3>
+                  <p>Martes a Domingo 8am a 5pm</p>
+                </div>
+              </div>
+              {{-- <div class="media contact-info">
                 <span class="contact-info__icon"><i class="ti-email"></i></span>
                 <div class="media-body">
                   <h3>admonhighlandpark@gmail.com</h3>
                   <p>Escribenos!</p>
                 </div>
-              </div>
+              </div> --}}
             </div>
           </div>
       </div>
