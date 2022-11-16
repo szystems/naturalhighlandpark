@@ -107,7 +107,7 @@
 								</div> --}}
 							</div>
 							<div class="item">
-								<a href="{{asset('hltemplate/images/Eventos/6.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Restaurantes/6.jpg')}});"></a>
+								<a href="{{asset('hltemplate/images/Eventos/8.jpg')}}" class="room image-popup-link" style="background-image: url({{asset('hltemplate/images/Restaurantes/8.jpg')}});"></a>
 								{{-- <div class="desc text-center">
 									<h3><a href="">Cabañas</a></h3>
 								</div> --}}
