@@ -141,7 +141,7 @@
 						<!--<div class="col-xs-4">
 							<a href="{{ url('/') }}"><p class="site">www.naturalhighlandpark.com</p></a>
 						</div>-->
-						<div class="col-xs-8 text-right">
+						<div class="col-xs-12 text-center">
 							<!--<p class="num">Telefono: <a href="tel:+50232056298">+(502) 3205-6298</a></p>-->
 							<ul class="colorlib-social">
 								<li><a href="https://www.facebook.com/HighlandNaturalPark" target="_blank"><img src="{{asset('hltemplate/images/redes/Fb.png')}}" alt="Facebook"  height="32"></a></li>
